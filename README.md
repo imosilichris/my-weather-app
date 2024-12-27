@@ -20,32 +20,5 @@ The **7-Day Weather Forecast Application** is a simple yet effective web applica
 - JavaScript  
 - WeatherAPI (https://www.weatherapi.com/)  
 
-## Setup Instructions  
 
-Follow these steps to set up the project locally:  
-
-### Prerequisites  
-
-Ensure you have a modern web browser and a code editor installed on your computer. You might also want to use a local server for testing.  
-
-### Installation  
-
-1. **Clone the Repository**  
-    ```bash  
-    git clone https://github.com/yourusername/weather-forecast-app.git  
-    cd weather-forecast-app  
-    ```  
-
-2. **Open `index.html`**  
-   You can open the `index.html` file directly in your browser or serve the files using a local server (e.g., Live Server extension in Visual Studio Code).  
-
-3. **Get Your WeatherAPI Key**  
-   - Sign up at [WeatherAPI](https://www.weatherapi.com/) to create an account.  
-   - Obtain your API key from your account dashboard.  
-
-4. **Update the API Key**  
-   - Open `script.js` and replace the placeholder `YOUR_API_KEY` with your actual WeatherAPI key:  
-   ```javascript  
-   const apiKey = 'YOUR_API_KEY'; // Replace with your actual WeatherAPI key
-   
 Created with CodeSandbox
